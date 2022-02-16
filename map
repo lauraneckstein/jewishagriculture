@@ -1,0 +1,1009 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sholem",
+        "Start_Date": 1837,
+        "End_Date": 1842,
+        "Type": "Private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.35744285583496,
+          41.759019938155404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sicily Island",
+        "Start_Date": "08-01-1881",
+        "End_Date": "04-01-1882",
+        "Type": "Am Olam/Alliance Israélite Universelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6585922241211,
+          31.84810716236533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Garske",
+        "End_Date": "",
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.87744665145874,
+          48.35686214391148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Woodbine",
+        "Type": "Am Olam/Baron de Hirsch",
+        "Start_Date": 1891,
+        "End_Date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.81689453125,
+          39.2407625100131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cremieux",
+        "Start_Date": "07-05-1882",
+        "End_Date": 1885,
+        "Type": "Am Olam/MAAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.32149982452393,
+          43.5131406270294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bethlehem Yehuda",
+        "Start_Date": "09-01-1882",
+        "End_Date": 1885,
+        "Type": "Alliance Israélite Universelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.38364124298096,
+          43.570908204406074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cotopaxi",
+        "End_Date": 1884,
+        "Type": "HEAS",
+        "Start_Date": "5-01-1882"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.68856239318846,
+          38.370934126616596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Odessa",
+        "End_Date": "02-01-1888",
+        "Start_Date": "07-01-1882",
+        "Type": "Am Olam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.50143432617186,
+          42.79741601927622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Painted Woods/Wilton",
+        "Start_Date": "06-01-1882",
+        "Type": "JAAS",
+        "End_Date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.89603424072264,
+          47.10693859728616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beersheba",
+        "Type": "HUAS",
+        "Start_Date": "8-01-1882",
+        "End_Date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.33126831054688,
+          38.10727694785215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hebron (New Jerusalem)",
+        "Start_Date": "3-01-1884",
+        "End_Date": 1893,
+        "Type": "Private/MAAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5089111328125,
+          37.13459278049613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gilead",
+        "Start_Date": "3-01-1886",
+        "End_Date": 1895,
+        "Type": "Private/MAAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.05447244644165,
+          37.112008862225736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lasker",
+        "Start_Date": 1885,
+        "End_Date": 1897,
+        "Type": "Am Olam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6841049194336,
+          37.489297490553696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Montefiore",
+        "Start_Date": "3-01-1884",
+        "End_Date": "12-01-1885",
+        "Type": "Am Olam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.88725280761719,
+          37.52715361723378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Leeser",
+        "Start_Date": "1-01-1886",
+        "End_Date": 1890,
+        "Type": "Land Rush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2210750579834,
+          38.09741596103984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Touro",
+        "Start_Date": "1-01-1886",
+        "End_Date": 1890,
+        "Type": "Land Rush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.22133255004883,
+          38.05201124793532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Palestine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00067901611328,
+          43.79860622522773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carmel",
+        "Start_Date": 1882,
+        "Type": "MAAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11987686157227,
+          39.43433685941721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alliance/Eskintown",
+        "End_Date": "",
+        "Type": "Am Olam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0918960571289,
+          39.518840465723486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brotmanville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.08236885070801,
+          39.52082677071969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Norma",
+        "End_Date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.08777618408203,
+          39.497152941537486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Garton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16888618469238,
+          39.46850179401297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rosenhayn",
+        "Start_Date": 1883,
+        "End_Date": "",
+        "Type": "HEAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13137817382812,
+          39.47853931943996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Six Points"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1074743270874,
+          39.53165113451866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ormand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9538803100586,
+          39.326596150380794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Halberton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.90942001342773,
+          39.29485262004323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Montefiore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.93001937866211,
+          39.30733924123122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mizpah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.83680725097656,
+          39.48417030015832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Highstown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.52455520629883,
+          40.27035782193439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Schaumberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08013916015625,
+          42.0322093090124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ararat",
+        "Start_Date": "09-01-1825",
+        "End_Date": "",
+        "Type": "Private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96045684814453,
+          43.01820348594956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Newport",
+        "End_Date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.26274108886719,
+          35.5942273151805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25640869140625,
+          34.68587526476131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ashley-Wishek",
+        "Start_Date": 1905,
+        "End_Date": 1932
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.36447143554688,
+          46.03034226096046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wing-Regan",
+        "Start_Date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.41366577148438,
+          47.14116119721898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Flasher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2335205078125,
+          46.45488927067795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bowman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.44932556152344,
+          46.13987966342405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Huntley",
+        "Start_Date": 1906,
+        "End_Date": "1930(1954)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.13871765136717,
+          41.896655133989285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tyler",
+        "Start_Date": 1904,
+        "End_Date": 1905
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.29884338378905,
+          32.35386297889634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yaazor",
+        "Start_Date": 1903,
+        "End_Date": 1939,
+        "Type": "Hebrew Colonial Society of Maryland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7894983291626,
+          39.30810297821239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Porterville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.07531738281251,
+          36.03133177633187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Orangevale",
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2264060974121,
+          38.67840757198655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Happyville",
+        "Start_Date": 1905,
+        "End_Date": "7-01-1908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63708686828612,
+          33.53767457394136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lisbon",
+        "Type": "JAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.01950073242188,
+          41.59285100004952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Indian Head",
+        "Start_Date": 1904,
+        "End_Date": 1929,
+        "Type": "HEAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.25554847717285,
+          40.870251581604066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Union Grove",
+        "Start_Date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11850357055664,
+          39.51503322237369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mannington Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.95920181274414,
+          39.323807546963714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burbridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.75749969482422,
+          39.415772740588125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Reega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.66068267822266,
+          39.43261325666009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thelma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.65347290039061,
+          39.41338556654953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lebanon/Jewtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.01396179199219,
+          39.683675539586446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Royalton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9936842918396,
+          39.544575266534075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.91268157958984,
+          39.563617839971705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rotham",
+        "Start_Date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.84976768493652,
+          39.57096214446257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Zionville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.98821258544922,
+          39.62155713953984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ruskville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.87216949462889,
+          39.49291397824881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Edwina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77779865264891,
+          39.50549764512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ariel-in-the-Pines/Sons of Israel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9930191040039,
+          39.37013704781351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iowa Center",
+        "Start_Date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.60168838500977,
+          41.747494291778956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lakebay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.76157379150389,
+          47.25266956230587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cherry County ",
+        "Start_Date": 1908,
+        "End_Date": 1916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.865234375,
+          42.29965889253408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Benton Harbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.32232666015625,
+          42.032974332441405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Knox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.62101745605467,
+          41.272645986935586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yantic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.12172508239745,
+          41.561903458327954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Branford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.80570983886717,
+          41.29844430929419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jamesburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.43134307861328,
+          40.346282459755756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Becket Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05994033813477,
+          42.284929023632834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Willimantic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.20918655395508,
+          41.70111467896558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Frenchtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0446891784668,
+          40.52136804570545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Norwich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.07649230957031,
+          41.53710904986892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.47065353393553,
+          40.47646419977281
+        ]
+      }
+    }
+  ]
+}

@@ -29,9 +29,9 @@ Below is a summation of Jewish agricultural life in the United States from Jewis
 
   Footnotes
 
-  [1]Herman J. Levine and Benjamin Miller, The American Jewish Farmer in Changing Times (New York: The Jewish Agricultural Society, Inc. 1966) 19, 21, 50.
+  [^1]Herman J. Levine and Benjamin Miller, The American Jewish Farmer in Changing Times (New York: The Jewish Agricultural Society, Inc. 1966) 19, 21, 50.
 
-  [2]Jews in American Agriculture: The History of Farming by Jews in the United States (The Jewish Agricultural Society, Inc. 1954), published on the occasion of the American Jewish tercentenary.
+  [^2]Jews in American Agriculture: The History of Farming by Jews in the United States (The Jewish Agricultural Society, Inc. 1954), published on the occasion of the American Jewish tercentenary.
 
-  [3]Uri D. Herscher, Jewish Agricultural Utopias in America, 1880-1910 (Detroit: Wayne State University Press, 1991), 123.
+  [^3]Uri D. Herscher, Jewish Agricultural Utopias in America, 1880-1910 (Detroit: Wayne State University Press, 1991), 123.
 

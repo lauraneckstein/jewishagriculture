@@ -15,7 +15,7 @@ Below is a summation of Jewish agricultural life in the United States from Jewis
 
   At the same moment that this group of Russian Jews aspired to a utopian ideal of living off the land, a group of American Jews whose families had immigrated decades earlier primarily from Germany developed the idea that some of the masses of new Jewish immigrants from Eastern and Southern Europe ought to be settled on farms, rather than in crowded cities. They created the American Hebrew Agricultural and Horticultural Association, and with money partly donated by the German Jewish philanthropist Baron Maurice de Hirsch, the founder of the Jewish Colonization Association and the Hebrew Emigrant Aid Society (which would become the Hebrew Immigrant Aid Society or HIAS and for decades helped settle Jewish immigrants in America), they began to establish Jewish agricultural colonies all over the country.[^2] (Baron de Hirsch’s Jewish Colonization Association also founded large Jewish agricultural colonies in Palestine, Argentina, and Canada.)
 
-  Jewish agricultural collectives were established in Kansas, Louisiana, Utah, New York, California, Oregon, North and South Dakota, Florida, Michigan, Arkansas, and New Jersey. Many of the collectives failed in a very short time, such as the Cotopaxi collective in Colorado that lasted only two years. Others, such as the Alliance and Woodbine agricultural colonies in New Jersey, were able to function for twenty years or more, partly because they included a certain amount of industrial production in addition to agriculture.[^3]
+  Jewish agricultural collectives were established in Kansas, Louisiana, Utah, New York, California, Oregon, North and South Dakota, Florida, Michigan, Arkansas, and New Jersey. Many of the collectives failed in a very short time, such as the Cotopaxi collective in Colorado that lasted only two years. Others, such as the Alliance and Woodbine agricultural colonies in New Jersey, were able to function for twenty years or more, partly because they included a certain amount of industrial production in addition to agriculture. [^3]
 
   The Jewish Agricultural Society, which administered the work of the American Hebrew Agricultural and Horticultural Association, realized that part of the problem with the colonies was their collective nature. In the U.S., immigrants expected to be able to make their fortunes based on their own efforts and not have to share their profits with others. The Society stopped funding collectives and funded only individual farmers from the 1920s on. They also focused their efforts first in New York and New Jersey and then in California, in communities near large Jewish, urban populations. In such locations, these farmers could also take in boarders in the summer—urban Jews looking for a quiet, rural vacation away from the city—and thereby supplement their income.
 
@@ -27,11 +27,11 @@ Below is a summation of Jewish agricultural life in the United States from Jewis
 
   In the past decade, yet another generation of idealistic young Jews has come onto the agricultural scene. For the founders of new Jewish farms and food justice organizations such as KOL Foods, Adamah, Urban Adamah, Hazon, the Jewish Farm School, Kayam, Grow and Behold, and EcoGlatt, the production, distribution and consumption of food is a sacred act, bound up in Jewish ritual and theology. These organizations are also concerned with such issues as safe working conditions, living wage, humane treatment of animals, pollution prevention, and sustainable farming techniques that replenish rather than deplete soil nutrients. They are also using their farms, cooperatives, and organizations to teach Jewish values about these issues from Jewish texts, both ancient and modern. Finally, they are interested in forming communities of like-minded Jews who wish to imbue the growing and consuming of food with holiness and spiritual intention.
 
-  Footnotes
+ 
 
-  [^1]Herman J. Levine and Benjamin Miller, The American Jewish Farmer in Changing Times (New York: The Jewish Agricultural Society, Inc. 1966) 19, 21, 50.
+  [^1]: Herman J. Levine and Benjamin Miller, The American Jewish Farmer in Changing Times (New York: The Jewish Agricultural Society, Inc. 1966) 19, 21, 50.
 
-  [^2]Jews in American Agriculture: The History of Farming by Jews in the United States (The Jewish Agricultural Society, Inc. 1954), published on the occasion of the American Jewish tercentenary.
+  [^2]: Jews in American Agriculture: The History of Farming by Jews in the United States (The Jewish Agricultural Society, Inc. 1954), published on the occasion of the American Jewish tercentenary.
 
-  [^3]Uri D. Herscher, Jewish Agricultural Utopias in America, 1880-1910 (Detroit: Wayne State University Press, 1991), 123.
+  [^3]: Uri D. Herscher, Jewish Agricultural Utopias in America, 1880-1910 (Detroit: Wayne State University Press, 1991), 123.
 
